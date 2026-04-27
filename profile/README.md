@@ -4,10 +4,6 @@
 
 강의 녹음과 자료를 업로드하면 AI가 음성과 슬라이드를 교차 분석하여 강사에게 피드백을 제공하는 강사 역량 강화 솔루션입니다.
 
-## 라이브 링크
-
-https://lectogrow-web.vercel.app?_vercel_share=c3kJYArHU7tWsqibayW3KCClR25hkMdX
-
 ## 레포지토리 링크
 
 lectogrow-web: https://github.com/LectoGrow/lectogrow-web </br>
